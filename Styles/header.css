@@ -1,9 +1,13 @@
 header {
-
+    height: 60px;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
-
+    display: flex;
 }
 
 .logo-img {
